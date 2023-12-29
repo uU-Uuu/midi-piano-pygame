@@ -1,6 +1,6 @@
 # midi-piano-pygame
 
-This is a small pygame for playing piano with a MIDI keyboard, reading and visualizing MIDI files.
+midi-piano-game is a simple Pygame application for playing piano with a MIDI keyboard, reading and visualizing MIDI files.
 
 # Table of contents
 * [Screenshots](#screenshots)
@@ -16,15 +16,16 @@ This is a small pygame for playing piano with a MIDI keyboard, reading and visua
 
 ## Features
 
-  ### PLAY mode
+### PLAY mode
 
-Connect a MIDI keyboard to your computer and start playing. 
-Alternatively, you can use Mouse to play one note at a time.
+- MIDI Keyboard: Connect a MIDI keyboard to your computer and start playing notes
+- Mouse Input: Play one note at a time by clicking the mouse.
 
-  ### WATCH mode
+### WATCH mode
 
-Upload your midi file (.mid extension) and press the 'PLAY' button
-that should appear shortly after checking the file.
+- MIDI File Playback: Upload your midi file (.mid extension) and press the 'PLAY' button.
+
+
 
 ## Credits
 
